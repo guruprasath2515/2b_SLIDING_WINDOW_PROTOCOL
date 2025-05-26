@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME: GURU PRASATH R
+## REG.NO:212223040053
 ## AIM
 ## ALGORITHM:
 1. Start the program.
@@ -8,9 +10,7 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-Developed by : DARIO G
 
-Reg no : 212222230027
 
 
 Client.py
